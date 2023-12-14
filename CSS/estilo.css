@@ -1,0 +1,60 @@
+body ¨{
+    background-color: #476BD5;  
+  }
+
+  header{
+  background-color: #4E629E;
+  color: #000000;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  }
+      
+  #titulo{
+      background-color: #A3AED2;
+      color: #314585;
+      border: 15px, 0px;
+  }
+
+  #menuPrincipal{
+  background-color: #7442A4;
+  }
+          
+  nav ul{
+  list-style: none;
+  padding: 0px;
+  }
+
+  nav ul li{
+  display: inline;
+  margin: 0px 15px;
+  }
+
+  .enlaceMenuPrincipal{
+  text-decoration: none;
+  color:#000000;
+  padding: 10px, 20px;               
+  }
+  
+  .tituloSeccion{ 
+  background-color: #9866C7;
+  color: #000000;
+  padding: 10px;
+  }
+
+  .art{
+  border: 1px solid #7839c0;
+  background-color: #7D6099;
+  border: 10px; 
+  padding: 10px;
+      }
+
+  footer{
+  background-color: #822576;
+  color: #000000;
+  text-align: center;
+  padding: 10px;
+  border: 20px;
+      }
